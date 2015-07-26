@@ -1,0 +1,3 @@
+Program to locally query a sql database through fastcgi applications, see other fcgi* repositories for server-side software.
+
+(parameters are passed with '+' as a delimiter after each param e.g. "localhost/?param1+param2+")
